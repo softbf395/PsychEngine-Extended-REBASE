@@ -2,15 +2,15 @@
 
 function onCreate()
 if difficulty == 0 then -- easy
-rank = 3
+rank = 2
 elseif difficulty == 1 then -- normal
-rank = 5
+rank = 3
 elseif difficulty == 2 then -- hard
-rank = 6
+rank = 4
 elseif difficulty == 3 then -- erect
-rank = 0
+rank = 8
 elseif difficulty == 4 then -- nightmare
-rank = 0
+rank = 9
 end
 end
 
