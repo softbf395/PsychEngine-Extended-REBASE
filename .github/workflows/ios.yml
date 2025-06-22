@@ -14,12 +14,12 @@ jobs:
 
       - name: Install Libraries
         run: |
+          haxelib install format
           haxelib install hmm --quiet
           haxelib run hmm install --quiet
-          haxelib run lime build ios -nosign -arm64
 
       - name: Compile
-        run: echo temp moved
+        run: haxelib run lime build ios -nosign -arm64
 
       - name: Make Ipa
         run: |
