@@ -10,7 +10,7 @@
       "name": "linc_luajit",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/mcagabe19-stuff/linc_luajit-legacy.git"
+      "url": "https://github.com/AndreiRudenko/linc_luajit.git"
     },
     {
       "name": "extension-androidtools",
@@ -48,13 +48,13 @@
       "name": "hxcpp",
       "type": "git",
       "ref": "becf3f8bea42641c03b1924b40e5f5fc5dd255d1",
-      "url": "https://github.com/mcagabe19-stuff/hxcpp.git"
+      "url": "https://github.com/HaxeFoundation/hxcpp.git"
     },
     {
       "name": "lime",
       "type": "git",
       "ref": "develop",
-      "url": "https://github.com/mcagabe19-stuff/lime.git"
+      "url": "https://github.com/openfl/lime.git"
     },
     {
       "name": "openfl",
